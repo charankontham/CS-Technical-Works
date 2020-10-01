@@ -2730,8 +2730,8 @@ function passcheck2() {
 				                    localStorage.setItem("csotp", otp);
 	                                Email.send({
 	                                Host: "smtp.gmail.com",
-	                                Username : "mail.alltemp123@gmail.com",
-	                                Password : "Temp@mail1",
+	                                Username : "********@gmail.com",
+	                                Password : "**********",
 	                                To : emailid,
 	                                From : "cstechnicalworks@gmail.com",
 	                                Subject : "Password Resetting",
