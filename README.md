@@ -1,1 +1,1 @@
-Install XAMPP to work this Project and create the tables As given with the name provided in the database( which is in code).
+Install XAMPP to work this Project and database tables also (but currently i don't have sql tables and database schema, so i will update with database as soon as possible)
